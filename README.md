@@ -1,5 +1,5 @@
-# Warehouse
-Warehouse system
+# Warehouse 
+Warehouse system ระบบบริหารจัดการคลังสินค้า
 
 ประกอบไปด้วยฟังก์ชัน
  - ตรวจสอบข้อมูลสินค้าขอเข้า
